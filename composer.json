@@ -1,0 +1,11 @@
+{
+    "name": "laravel/garments_inventory",
+    "description": "A Complete Garments Inventory System using Laravel",
+    "authors": [
+        {
+            "name": "saifyea",
+            "email": "saifyea@gmail.com"
+        }
+    ],
+    "require": {}
+}
